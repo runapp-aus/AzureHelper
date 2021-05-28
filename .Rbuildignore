@@ -1,0 +1,8 @@
+^AzureHelper\.Rproj$
+^\.Rproj\.user$
+^dev_history\.R$
+^README\.Rmd$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^data-raw$
