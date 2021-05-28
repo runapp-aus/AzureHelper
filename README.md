@@ -19,7 +19,7 @@ You can install the released version of AzureHelper from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-devtools::install::github('runapp/AzureHelper')
+devtools::install::github('runapp-aus/AzureHelper')
 ```
 
 ## Note

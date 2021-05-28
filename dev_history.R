@@ -14,6 +14,8 @@ usethis::use_build_ignore("dev_history.R") # ensure this file is ignored
 
 use_readme_rmd()
 
+use_lifecycle_badge('experimental')
+
 use_testthat()
 
 use_pkgdown()
